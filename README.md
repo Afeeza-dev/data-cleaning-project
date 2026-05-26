@@ -46,4 +46,5 @@ The dataset is now clean, structured, and ready for further analysis or visualiz
 ---
 
 ## 👩‍💻 Author
-DecodeLabs Intern Project Submission
+Afeeza  
+Data Analytics Intern at DecodeLabs
